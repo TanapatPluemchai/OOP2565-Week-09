@@ -145,7 +145,7 @@ namespace IndexerExample
 }
 ```
 
-# indexer string
+# indexer overloading
 
 ```cs
 using System.Drawing;
